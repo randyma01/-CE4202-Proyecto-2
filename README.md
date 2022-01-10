@@ -23,7 +23,7 @@ El trabajo mostrado a continuación es la solución del **Proyecto Corto 2** del
 
 ## Ejecutar el proyecto 🏃🏻‍♀️
 
-1. Solicitar acceso al repositroio de los autores y descargarlo completo. 
+1. Solicitar acceso al repositorio de los autores y descargarlo completo. 
 
 2. Abrir NI Multisim v14.2 (o posterior) y abrir los archivos `pwd.ms, tension.ms, resistencia.ms & medidor-capacitancia.ms`. Los demás archivos se pueden ignorar, ya que, fueron de construcción.
 
